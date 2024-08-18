@@ -76,3 +76,4 @@ This exploratory data analysis of the Zomato dataset has provided valuable insig
 - `README.md`: Project overview, insights, and future directions.
 
 Feel free to explore the notebook for detailed analysis and visualizations!
+![](https://komarev.com/ghpvc/?username=Deepayanbasu07)
